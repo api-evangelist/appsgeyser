@@ -1,0 +1,74 @@
+{
+    "name": "AppsGeyser",
+    "description": "Convert any web content into an Android App using AppsGeyser - The Free Android App Maker. Build Your Own App for Free and Make Money.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/352-appsgeyser.jpg",
+    "tags": [
+        "android",
+        "api service provider",
+        "applications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/appsgeyser\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AppsGeyser",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/352-appsgeyser.jpg",
+            "humanURL": "http:\/\/www.appsgeyser.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appsgeyser-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appsgeyser-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.appsgeyser.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/AppsgeyserBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/appsgeyser"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/appsgeyser"
+        },
+        {
+            "type": "Email",
+            "url": "info@appsgeyser.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@appsgeyser.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@appsgeyser.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/appsgeyser"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.appsgeyser.com\/"
+        }
+    ]
+}
